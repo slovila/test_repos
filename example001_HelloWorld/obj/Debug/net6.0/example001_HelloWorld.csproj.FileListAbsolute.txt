@@ -1,0 +1,15 @@
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/bin/Debug/net6.0/example001_HelloWorld
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/bin/Debug/net6.0/example001_HelloWorld.deps.json
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/bin/Debug/net6.0/example001_HelloWorld.runtimeconfig.json
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/bin/Debug/net6.0/example001_HelloWorld.dll
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/bin/Debug/net6.0/example001_HelloWorld.pdb
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.csproj.AssemblyReference.cache
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.AssemblyInfoInputs.cache
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.AssemblyInfo.cs
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.dll
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/refint/example001_HelloWorld.dll
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.pdb
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/example001_HelloWorld.genruntimeconfig.cache
+/Users/alekseynikitenko/Desktop/GB/Examples/example001_HelloWorld/obj/Debug/net6.0/ref/example001_HelloWorld.dll
